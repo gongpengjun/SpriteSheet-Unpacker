@@ -11,3 +11,5 @@ Feature:
 Implementation:
   1. Use a modified version of Cocos2D-iphone lib.
 
+Screen Shot:
+![](http://gongpengjun.com/dl/SpriteSheetUnpacker/screenshot_1.jpg)
